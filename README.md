@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kapil</h1>
 <h3 align="center">Hey dear! I'm Kapil, a junior undergrad(2021-2025) at GL Bajaj Institue Of Technology and Management , Greater Noida in the Computer Science and Engineering(CSE).Currently I'm focusing on improving my Data Structure and Algorithms(DSA) and Problem Solving Skills and also have my hands on WEB DEVELOPMENT.I aspire to be a Full Stack Web Developer. I'm self taught learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil-16082002&label=Profile%20views&color=0e75b6&style=flat" alt="kapil-16082002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil-16082002" alt="kapil-16082002" /></a> </p>
 
 - 🔭 I’m currently Working on **Image & Text Classification**
 
