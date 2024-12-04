@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kapil-16082002](https://github.com/Kapil-16082002)
 
-- 📫 How to reach me **kapiljlpt@gmail.com**
+- 📫 How to reach me **kapilsolanki16082002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SovkPiENW9HPzHL6lfUMyINgqKl3GSVJ/view?usp=drivesdk](https://drive.google.com/file/d/1SovkPiENW9HPzHL6lfUMyINgqKl3GSVJ/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KTa8POYlQGrFY81u07jN16IZzCN-WMzk/view?usp=drivesdk](https://drive.google.com/file/d/1KTa8POYlQGrFY81u07jN16IZzCN-WMzk/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think i am funny and attractive😄😄**
 
