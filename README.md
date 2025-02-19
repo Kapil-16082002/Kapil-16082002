@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kapil</h1>
+<h1 align="center">Hi 👋, I'm Kapil Solanki</h1>
 <h3 align="center">Hey dear! I'm Kapil, a junior undergrad(2021-2025) at GL Bajaj Institue Of Technology and Management , Greater Noida in the Computer Science and Engineering(CSE).Currently I'm focusing on improving my Data Structure and Algorithms(DSA) and Problem Solving Skills and also have my hands on WEB DEVELOPMENT.I aspire to be a Full Stack Web Developer. I'm self taught learner.</h3>
 
 
